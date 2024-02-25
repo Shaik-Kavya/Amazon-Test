@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testcase for the amazon login</description>
+   <name>TC_Amazon_Login_001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e26aa62-0328-49b3-8417-3644cf7d3f17</testCaseGuid>
+</TestCaseEntity>
